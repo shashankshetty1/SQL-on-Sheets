@@ -12,6 +12,9 @@ SELECT
 FROM read_csv_auto('data.csv')
 WHERE STAGE_NAME = '3 Discovery';
 
+//Shetty
+
+
 
 
                  
